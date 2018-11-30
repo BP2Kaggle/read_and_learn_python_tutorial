@@ -1,1 +1,1 @@
-Read and learn Python Tutorial to get an entry level while first-hand and integrated knowledge.
+Read and learn Python Tutorial[https://docs.python.org/3/tutorial/index.html] to get an entry level while first-hand and integrated knowledge.
