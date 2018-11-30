@@ -1,0 +1,1 @@
+Read and learn Python Tutorial to get an entry level while first-hand and integrated knowledge.
